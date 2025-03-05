@@ -136,6 +136,3 @@ finally:
 3. 适当增加 wait_time 参数值
 4. 查看日志文件中的警告和错误信息
 
-## 许可证
-
-MIT License 
